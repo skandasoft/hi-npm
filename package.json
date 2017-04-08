@@ -1,0 +1,22 @@
+{
+  "name": "hi-npm",
+  "version": "1.0.0",
+  "description": "hi npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skandasoft/hi-npm.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "skandasoft <skandasoftinc@gmail.com> (http://skandasoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skandasoft/hi-npm/issues"
+  },
+  "homepage": "https://github.com/skandasoft/hi-npm#readme"
+}
